@@ -1,2 +1,4 @@
+stash
 hello
 first
+revert 1
